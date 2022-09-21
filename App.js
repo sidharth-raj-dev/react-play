@@ -1,10 +1,11 @@
 import React from "react";
+import RenderProp from "./src/render-props/RenderProp";
 
 const App = () => {
     return (
-        <div>
-            {`app loaded`}
-        </div>
+        <>
+            <RenderProp />
+        </>
     );
 };
 
