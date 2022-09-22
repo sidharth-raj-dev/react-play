@@ -1,10 +1,10 @@
 import React from "react";
-import ParentOfRenderingComponent from "./src/render-props/function-input/ParentOfRenderingComponent"
+import DemoApp from "./src/higher-order-component/class-based/simple/DemoApp";
 
 const App = () => {
     return (
         <>
-            <ParentOfRenderingComponent />
+            <DemoApp />
         </>
     );
 };
