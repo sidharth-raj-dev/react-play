@@ -1,5 +1,5 @@
 import React from "react";
-import DemoApp from "./src/higher-order-component/class-based/simple/DemoApp";
+import DemoApp from "./src/higher-order-component/function-based/DemoApp";
 
 const App = () => {
     return (
